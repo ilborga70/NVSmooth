@@ -4,7 +4,7 @@
 
 It communicates directly with the native driver library (`nvapi64.dll`), so it **does not require NVIDIA Profile Inspector** or any third-party software to be installed.
 
----
+<img width="1408" height="768" alt="NVSmooth v1 0" src="https://github.com/user-attachments/assets/48c6dd7d-2cc2-46da-bbfa-d5ec8292bfb8" />
 
 ## Key Features
 
