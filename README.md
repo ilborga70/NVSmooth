@@ -1,4 +1,4 @@
-# NVSmooth v1.0
+# NVSmooth
 
 **NVSmooth** is a lightweight, standalone Windows utility that applies an optimized global profile to NVIDIA drivers in a single click, designed to eliminate micro-stuttering, stabilize *frametimes*, and improve overall gaming smoothness.
 
