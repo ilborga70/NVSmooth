@@ -48,12 +48,6 @@ If you ever wish to revert to the standard NVIDIA configuration:
 
 ---
 
-## Author
-
-Created and optimized by **Igor Borgacci (`ilborga70`)**.
-
----
-
 ### 🔬 Is this file 100% safe?
 Yes! If you are worried about security, the file has been fully analyzed on Jotti's malware scan. The results show 0/13 scanners reporting malware, meaning top antiviruses like Kaspersky, BitDefender, and Avast found absolutely nothing.
 
@@ -61,3 +55,9 @@ Yes! If you are worried about security, the file has been fully analyzed on Jott
 Since the file was compiled using Win-PS2EXE, any alerts are due to the nature of the compiler wrapper. Don't worry — the code has been reviewed by IT experts and has been found to be completely safe and clean.
 
 🔗 **Check the full safety report here:** [Jotti's Malware Scan Report](https://virusscan.jotti.org/it-IT/filescanjob/te6x26nq8t)
+
+---
+
+## Author
+
+Created and optimized by **Igor Borgacci (`ilborga70`)**.
